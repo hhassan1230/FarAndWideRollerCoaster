@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{489942A4-9F34-024C-4D77-52A8997E6C43}") = "FarAndWideRollerCoaster", "Assembly-CSharp.csproj", "{128CA7E7-CE0A-C40F-636B-4729388EBD6C}"
+EndProject
+Project("{489942A4-9F34-024C-4D77-52A8997E6C43}") = "FarAndWideRollerCoaster", "Assembly-CSharp-Editor.csproj", "{06C9345A-AD42-639A-B5C1-0088D1B673B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128CA7E7-CE0A-C40F-636B-4729388EBD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128CA7E7-CE0A-C40F-636B-4729388EBD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128CA7E7-CE0A-C40F-636B-4729388EBD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128CA7E7-CE0A-C40F-636B-4729388EBD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C9345A-AD42-639A-B5C1-0088D1B673B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C9345A-AD42-639A-B5C1-0088D1B673B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C9345A-AD42-639A-B5C1-0088D1B673B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C9345A-AD42-639A-B5C1-0088D1B673B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
